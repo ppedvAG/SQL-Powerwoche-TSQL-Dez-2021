@@ -91,18 +91,6 @@
           <AssociatedConnUserName />
           <FullPath>10_UNION.sql</FullPath>
         </FileNode>
-        <FileNode Name="102_Salamitaktik.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>102_Salamitaktik.sql</FullPath>
-        </FileNode>
-        <FileNode Name="103_Kompression.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>103_Kompression.sql</FullPath>
-        </FileNode>
         <FileNode Name="11_TOP.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
@@ -175,18 +163,6 @@
           <AssociatedConnUserName />
           <FullPath>60_Function.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery2.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery2.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery3.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery3.sql</FullPath>
-        </FileNode>
         <FileNode Name="Tag2_Wiederholung.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
@@ -228,6 +204,30 @@
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>Z_101 Seiten_.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_102_Salamitaktik.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_102_Salamitaktik.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_103_Kompression.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_103_Kompression.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_104_Maxdop.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_104_Maxdop.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_105_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_105_Indizes.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
