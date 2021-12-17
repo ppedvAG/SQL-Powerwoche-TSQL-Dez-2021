@@ -194,8 +194,8 @@
           <FullPath>x_URLs.sql</FullPath>
         </FileNode>
         <FileNode Name="Z_100_Tuning_Starter.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Z_100_Tuning_Starter.sql</FullPath>
         </FileNode>
@@ -228,6 +228,12 @@
           <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Z_105_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z-106_Fallbeisspile.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z-106_Fallbeisspile.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
