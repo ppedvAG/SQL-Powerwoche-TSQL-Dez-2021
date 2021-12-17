@@ -163,6 +163,12 @@
           <AssociatedConnUserName />
           <FullPath>60_Function.sql</FullPath>
         </FileNode>
+        <FileNode Name="instnwnd.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>instnwnd.sql</FullPath>
+        </FileNode>
         <FileNode Name="Tag2_Wiederholung.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
@@ -229,11 +235,29 @@
           <AssociatedConnUserName />
           <FullPath>Z_105_Indizes.sql</FullPath>
         </FileNode>
-        <FileNode Name="Z-106_Fallbeisspile.sql">
+        <FileNode Name="Z_106_Fallbeisspile.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>Z-106_Fallbeisspile.sql</FullPath>
+          <FullPath>Z_106_Fallbeisspile.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_107_Planwiederverwendung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Z_107_Planwiederverwendung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_108_Sperren.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_108_Sperren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_IX_Monitor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_IX_Monitor.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
